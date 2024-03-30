@@ -1,0 +1,29 @@
+{
+  "name": "aspernaturculpa",
+  "author": "RessieKutch",
+  "description": "OPML parsing using sax js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VivianneLind/aspernaturculpa.git"
+  },
+  "keywords": [
+    "consequatur",
+    "quae",
+    "est",
+    "xml",
+    "vero"
+  ],
+  "main": "./main.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "sax": "~0.6.0",
+    "readable-stream": "~1.1.10"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "request": "~2.33.0"
+  }
+}
